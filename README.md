@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola, soy Antonio Funes! 👋
 
-<!--
-**HeroedelGin/HeroedelGin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Sistemas** y **Analista Programador**. Me apasiona el desarrollo, la resolución de problemas y la constante actualización tecnológica.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologías y Herramientas
+Aquí es donde destaco lo que uso en mis proyectos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Lenguajes:** [Ej: Java, Python, C, SQL]
+*   **Desarrollo:** [Ej: Git, Docker, Visual Studio Code]
+*   **Intereses:** [Ej: Desarrollo de software, Bases de datos, Algoritmos]
+
+### 🎓 Formación y Experiencia
+*   Actualmente cursando la carrera de **Ingeniería en Sistemas**.
+*   Participante activo del **Programa Tutoría de Pares** (Facultad de Ingeniería).
+*   Enfocado en el aprendizaje técnico continuo y el trabajo colaborativo.
+
+---
+
+### 🌐 Conectemos
+*   **LinkedIn:** https://www.linkedin.com/in/antonio-funes-a58923393/
+*   **GitHub:** https://github.com/HeroedelGin
+*   **Ubicación:** General Pico, La Pampa, Argentina.
+
+---
+*Siempre estoy buscando aprender algo nuevo o colaborar en proyectos interesantes. ¡Charlemos!*
