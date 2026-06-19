@@ -5,9 +5,9 @@ Estudiante de **Ingeniería en Sistemas** y **Analista Programador**. Me apasion
 ### 🛠 Tecnologías y Herramientas
 Aquí es donde destaco lo que uso en mis proyectos:
 
-*   **Lenguajes:** [Ej: Java, Python, C, SQL]
-*   **Desarrollo:** [Ej: Git, Docker, Visual Studio Code]
-*   **Intereses:** [Ej: Desarrollo de software, Bases de datos, Algoritmos]
+*   **Lenguajes:** Java, Python, C, C++, SQL
+*   **Desarrollo:** Git, Docker, Visual Studio Code
+*   **Intereses:** Desarrollo de software, Bases de datos, Algoritmos, Programacion Orientada a Objetos, Estructuras de datos
 
 ### 🎓 Formación y Experiencia
 *   Actualmente cursando la carrera de **Ingeniería en Sistemas**.
