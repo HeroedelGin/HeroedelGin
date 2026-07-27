@@ -36,4 +36,4 @@ Estudiante avanzado de **Ingeniería en Sistemas** y **Analista Programador**. M
 * **Ubicación:** General Pico, La Pampa, Argentina
 
 ---
-*“Siempre buscando resolver problemas complejos mediante el código y el aprendizaje continuo.”*
+
