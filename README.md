@@ -13,7 +13,7 @@ Estudiante de Ingeniería en Sistemas orientado al desarrollo Frontend y proyect
 ### Redes
 <p align="left">
   <a href="https://x.com/_antonio_ok" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="" />
   </a>
   <a href="https://www.instagram.com/antoniofunes42/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
