@@ -30,6 +30,6 @@ Estudiante de Ingeniería en Sistemas orientado al desarrollo Frontend y proyect
 
 ### Actividad
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heroedelgin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroedelgin&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
