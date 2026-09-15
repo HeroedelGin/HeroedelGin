@@ -14,7 +14,7 @@ Estudiante de Ingeniería en Sistemas enfocado en Frontend y proyectos personale
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://c.tenor.com/4976337289856141233/code-coding-computer.gif" width="100%" alt="Coding Animation" />
+      <img src="https://media1.tenor.com/m/39J-L9Q37_QAAAAC/code-coding.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
