@@ -26,3 +26,10 @@ Estudiante de Ingeniería en Sistemas orientado al desarrollo Frontend y proyect
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,cpp,java,py,mysql,git,github" alt="Stack tecnológico" />
 </p>
+---
+
+### Actividad
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+</p>
