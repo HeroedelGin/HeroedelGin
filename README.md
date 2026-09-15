@@ -1,17 +1,31 @@
-# Hola soy Toni.
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+
+# Toni
 
 ### Sobre mí
-Estudiante de Ingeniería en Sistemas orientado al desarrollo Frontend y proyectos personales.
+Estudiante de Ingeniería en Sistemas enfocado en Frontend y proyectos personales.
 
 - **Actualmente enfocado en:** JavaScript, HTML5, CSS3.
 - **Experiencia:** C++, Java, Python, SQL.
-- **Proyectos en curso:** Desarrollo de proyectos web personales y aplicaciones.
+- **Proyectos en curso:** Aplicaciones y sitios web personales.
 - **Contacto:** antonio42489167@gmail.com
+
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Redes
 <p align="left">
+  <a href="https://x.com/_antonio_ok" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
   <a href="https://www.instagram.com/antoniofunes42/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -26,10 +40,19 @@ Estudiante de Ingeniería en Sistemas orientado al desarrollo Frontend y proyect
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,cpp,java,py,mysql,git,github" alt="Stack tecnológico" />
 </p>
+
 ---
 
 ### Actividad
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heroedelgin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroedelgin&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeroedelGin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroedelGin&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeroedelGin&theme=dark&hide_border=true" alt="Racha de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HeroedelGin&label=Perfil+Visto&color=0e75b6&style=flat-square" alt="Contador de visitas" />
 </p>
