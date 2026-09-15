@@ -41,13 +41,14 @@ Estudiante de Ingeniería en Sistemas enfocado en Frontend y proyectos personale
 ---
 
 ### Actividad
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=HeroedelGin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HeroedelGin&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=HeroedelGin&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HeroedelGin&layout=compact&theme=dark&hide_border=true" height="165" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HeroedelGin&theme=dark&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=HeroedelGin&theme=dark&hide_border=true" height="165" alt="Racha de GitHub" />
 </p>
 
 <p align="center">
