@@ -14,7 +14,7 @@ Estudiante de Ingeniería en Sistemas enfocado en Frontend y proyectos personale
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N" width="100%" alt="Coding Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -22,14 +22,11 @@ Estudiante de Ingeniería en Sistemas enfocado en Frontend y proyectos personale
 ---
 
 ### Redes
-<p align="left">
-  <a href="https://x.com/_antonio_ok" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
+<p align="left"
   <a href="https://www.instagram.com/antoniofunes42/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
