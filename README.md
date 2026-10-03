@@ -21,7 +21,7 @@
 <br>
 
 ### ⛩️ Sobre Mí (About Me)
-Soy estudiante de la carrera de **Ingeniería en Sistemas / Analista Programador** en la [Universidad Nacional de La Pampa (UNLPam)](https://www.unlpam.edu.ar/). Toda mi adolescencia me gustó aprender cosas nuevas y darle solución a problemas de distintas magnitudes. Desde chico me gusta mucho la tecnología. Soy de Parera, La Pampa, y actualmente estoy viviendo en General Pico, La Pampa. Busco siempre un equilibrio entre el desarrollo profesional, apuntando a oportunidades de trabajo remoto, y la colaboración activa con la comunidad tecnológica.
+Soy estudiante de la carrera de **Ingeniería en Sistemas / Analista Programador** en la Facultad de Ingeniería de la Universidad Nacional de La Pampa (UNLPam). Toda mi adolescencia me gustó aprender cosas nuevas y darle solución a problemas de distintas magnitudes. Desde chico me gusta mucho la tecnología. Soy de Parera, La Pampa, y actualmente estoy viviendo en General Pico, La Pampa. Busco siempre un equilibrio entre el desarrollo profesional, apuntando a oportunidades de trabajo remoto, y la colaboración activa con la comunidad tecnológica.
 
 ### 🎯 Enfoque Actual (Current Focus)
 - **Sistema de Gestión de Stock y Balance:** Desarrollando una aplicación web escalable orientada a tiendas, pensada para reemplazar las planillas de Excel tradicionales y modernizar la administración comercial.
