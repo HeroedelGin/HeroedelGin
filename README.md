@@ -7,7 +7,7 @@
 ### Sobre mí
 Estudiante de Ingeniería en Sistemas enfocado en Frontend y proyectos personales.
 
-- **Actualmente enfocado en:** JavaScript, HTML5, CSS3.
+- **Actualmente enfocado en:** JavaScript, HTML5, CSS.
 - **Experiencia:** C++, Java, Python, SQL.
 - **Proyectos en curso:** Aplicaciones y sitios web personales.
 - **Contacto:** antonio42489167@gmail.com
