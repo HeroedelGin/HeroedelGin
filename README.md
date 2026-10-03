@@ -29,6 +29,8 @@ Estudiante de Ingeniería en Sistemas enfocado en Frontend y proyectos personale
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://heroedelgin.dev.ar/" target="MI PORFOLIO">
+  </a>
 </p>
 
 ---
